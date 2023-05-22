@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "weekend",
+		"path": "."
+	},
+	{
+		"name": "pokegallery",
+		"path": "../pokedex/pokegallery"
+	}
+],
+  "settings": {}
+}

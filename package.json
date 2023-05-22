@@ -1,0 +1,8 @@
+{
+  "name": "pokegallery",
+  "version": "0.0.1",
+  "description": "Website about a pokemon gallery.",
+  "main": "index.html",
+  "author": "",
+  "license": "MIT"
+}
